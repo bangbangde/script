@@ -1,5 +1,7 @@
 /**
-* 1. 打开冒烟用了执行页面 /secure/Tests.jspa#/testPlayer/xxx 
+* Jira 冒烟用例执行页面自动点击脚本
+*
+* 1. 打开冒烟页面 /secure/Tests.jspa#/testPlayer/xxx 
 * 2. 进入 console 面板，运行此脚本
 */
 async function autoClick() {
